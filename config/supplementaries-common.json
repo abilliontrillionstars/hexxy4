@@ -70,12 +70,12 @@
       "drink_from_jar": true,
       "drink_from_jar_item": false,
       "jar_auto_detect": false,
-      "jar_capture": true,
+      "jar_capture": false,
       "jar_cookies": true,
       "jar_liquids": true
     },
     "cage": {
-      "enabled": true,
+      "enabled": false,
       "allow_all_mobs": true,
       "cage_allow_all_babies": true,
       "cage_auto_detect": false,
