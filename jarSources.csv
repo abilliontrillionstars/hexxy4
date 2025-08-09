@@ -1,3 +1,7 @@
 path,source,reasoning
 mods/figura-0.1.5+1.20.1-fabric-mc.jar,https://github.com/FiguraMC/Figura/actions/runs/15899240356,for FSB support
 mods/complexhex-fabric-1.20.1-0.1.5-beta.jar,https://github.com/kineticneticat/ComplexHex/commit/cc329d3,hex complex
+mods/hexical-2.0.0.jar,https://github.com/miyucomics/hexical/commit/606767244f75198e01f3fd68128fa79ffebf1af6,Unreleased featues
+mods/hexcassettes-2.0.0.jar,https://github.com/miyucomics/hexcassettes/commit/96f829ac9a2fda55d04adcb3e5a1d10ddef11de3,Unreleased overhaul?
+mods/overevaluate-1.0.0.jar,https://github.com/miyucomics/overevaluate/commit/b39794cb9d3227b3b9f19768859ffd451153ed7f,Jumble iotas
+mods/scryglass-1.0.0.jar,https://github.com/miyucomics/scryglass/commit/501859f1c18092a9096820c649e117133e321363,Several unreleased changes
