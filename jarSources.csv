@@ -1,2 +1,6 @@
 path,source,reasoning
 mods/figura-0.1.5+1.20.1-fabric-mc.jar,https://github.com/FiguraMC/Figura/actions/runs/15899240356,for FSB support
+mods/hexical-2.0.0.jar,https://github.com/miyucomics/hexical,Unreleased featues
+mods/hexcassettes-2.0.0.jar,https://github.com/miyucomics/hexcassettes/,Unreleased overhaul
+mods/overevaluate-1.0.0.jar,https://github.com/miyucomics/overevaluate/,Jumble iotas
+mods/scryglass-1.0.0.jar,https://github.com/miyucomics/scryglass/,Several unreleased changes
