@@ -20,6 +20,7 @@ jobs:
         working-directory: main
         run: |
           bash -c "rm -rf $(cat .packwizignore | xargs)"
+          echo "hash-format = \"sha256\"" > index.toml
           /usr/local/bin/packwiz refresh --build
           
       - uses: actions/checkout@v4
@@ -30,6 +31,7 @@ jobs:
         working-directory: dev
         run: |
           bash -c "rm -rf $(cat .packwizignore | xargs)"
+          echo "hash-format = \"sha256\"" > index.toml
           /usr/local/bin/packwiz refresh --build
   
       - uses: actions/upload-pages-artifact@v3

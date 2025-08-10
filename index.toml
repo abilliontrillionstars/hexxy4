@@ -1,13 +1,1 @@
 hash-format = "sha256"
-
-[[files]]
-file = "mods/chunky.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/chunkyborder.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/offlinecommands.pw.toml"
-metafile = true
