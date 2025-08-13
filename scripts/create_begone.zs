@@ -16,7 +16,7 @@
 // removes blocks
 craftingTable.remove(<item:create:encased_fan>);
 craftingTable.remove(<item:create:deployer>);
-craftingTable.remove(<item:create:belt_connector>);
+//craftingTable.remove(<item:create:belt_connector>);
 //craftingTable.remove(<item:create:hose_pulley>);
 craftingTable.remove(<item:create:mechanical_mixer>);
 craftingTable.remove(<item:create:mechanical_saw>);
@@ -25,7 +25,7 @@ craftingTable.remove(<item:create:mechanical_press>);
 craftingTable.remove(<item:create:mechanical_harvester>);
 craftingTable.remove(<item:create:mechanical_plough>);
 craftingTable.remove(<item:create:mechanical_crafter>);
-craftingTable.remove(<item:create:mechanical_arm>);
+//craftingTable.remove(<item:create:mechanical_arm>);
 craftingTable.remove(<item:create:mechanical_drill>);
 craftingTable.remove(<item:create:millstone>);
 
