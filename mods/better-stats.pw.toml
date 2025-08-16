@@ -11,3 +11,8 @@ hash = "bda0ac4e8937cfbe38f9a4a8aadb77f6a882407e"
 [update.modrinth]
 mod-id = "n6PXGAoM"
 version = "Ktw36uDC"
+
+[option]
+optional = true
+default = true
+description = "improves the stats screen"

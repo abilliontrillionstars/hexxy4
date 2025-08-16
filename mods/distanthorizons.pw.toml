@@ -11,3 +11,8 @@ hash = "fcbb4a39846af6d5cd41bc98405031f2010eef90"
 [update.modrinth]
 mod-id = "uCdwusMi"
 version = "MhxUKxWI"
+
+[option]
+optional = true
+default = true
+description = "lets you see chunks from very large distances using LODs"

@@ -11,3 +11,8 @@ hash = "538a90dd2eced7704a900d53b9cbc5cf5cea6b64"
 [update.modrinth]
 mod-id = "iAiqcykM"
 version = "9RoWFL8K"
+
+[option]
+optional = true
+default = true
+description = "lets you zoom without a spyglass"

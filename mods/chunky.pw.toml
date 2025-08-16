@@ -11,3 +11,8 @@ hash = "b5672d69dc2b210ab2165a27afc03a424fa2b46a"
 [update.modrinth]
 mod-id = "fALzjamp"
 version = "NHWYq9at"
+
+[option]
+optional = true
+default = false
+description = "lets your client translate strings from chunky, probably not needed"
