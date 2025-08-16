@@ -5,3 +5,24 @@ mods/hexical-2.0.0.jar,https://github.com/miyucomics/hexical/tree/606767244f7519
 mods/hexcassettes-2.0.0.jar,https://github.com/miyucomics/hexcassettes/tree/96f829ac9a2fda55d04adcb3e5a1d10ddef11de3,Unreleased overhaul?
 mods/overevaluate-1.0.0.jar,https://github.com/miyucomics/overevaluate/tree/b39794cb9d3227b3b9f19768859ffd451153ed7f,Jumble iotas
 mods/scryglass-1.0.0.jar,https://github.com/miyucomics/scryglass/tree/501859f1c18092a9096820c649e117133e321363,Several unreleased changes
+
+mods/HexVR-1.5.2 [FABRIC 1.20.1].jar,https://modrinth.com/mod/hexvr/version/4o6PdJPH,Should be replaced with a toml
+mods/caduceus-fabric-0.1.1+1.20.1.jar,https://modrinth.com/mod/caduceus/version/0.1.1+1.20.1,Should be replaced with a toml
+mods/cc-security-1.1.0.jar,Unknown
+mods/efhexs-1.0.0.jar,Unknown
+mods/ephemera-fabric-1.20.1-0.3.0.jar,Unknown,modrinth only lists versions from 1.19
+mods/gravity-changer-1.1.2+mc1.20.1.jar,https://modrinth.com/mod/gravity-api-fork/version/v1.1.2-mc1.20.1,Should be replaced with a toml
+mods/helpfromhexxy-fabric-1.20.1-0.1.4.jar,Unknown,newer version than on modrinth
+mods/hex_machina-1.0.1.jar,https://modrinth.com/mod/hex-machina/version/1.0.1,Should be replaced with a toml
+mods/hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial-teleport-experiment.jar,Unknown
+mods/hexcasting-fabric-1.20.1-0.11.2.3-SpellCircle.jar,Unknown
+mods/hexcellular-1.1.0.jar,Unknown
+mods/hexchanting-1.1.3.jar,https://modrinth.com/mod/hexchanting/version/1.1.3,Should be replaced with a toml
+mods/hexdebug-fabric-0.3.0+1.20.1.jar,https://modrinth.com/mod/hexdebug/version/gvNYxq9j,Should be replaced with a toml
+mods/hexpats-0.1.1-1.20.1.jar,https://modrinth.com/mod/hexpats/version/0.1.1-1.20.1,Should be replaced with a toml
+mods/hexstruction-fabric-1.2.1+1.20.1.jar,https://modrinth.com/mod/hexstruction/version/1.2.1+1.20.1,Should be replaced with a toml
+mods/ioticblocks-fabric-1.0.1+1.20.1.jar,https://modrinth.com/mod/ioticblocks/version/Wl8zWGU0,Should be replaced with a toml
+mods/moreiotas-fabric-1.20.1-0.1.0-5.jar,Unknown
+mods/movesthemind-1.0.3.jar,https://modrinth.com/mod/moves-the-mind/version/1.0.3,Should be replaced with a toml and updated
+mods/oneironaut-fabric-1.20.1-0.5.0.jar,Unknown,newer version than on modrinth
+mods/phlexiful-fabric-1.0.0.jar,https://modrinth.com/mod/phlexiful/version/1.0.0,Should be replaced with a toml
