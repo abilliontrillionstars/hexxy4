@@ -17,7 +17,7 @@
   {
     "comment": "create.keyinfo.toolbelt",
     "translation": "Access Nearby Toolboxes",
-    "key": "key.keyboard.left.alt"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "create.keyinfo.toolmenu",
@@ -62,12 +62,12 @@
   {
     "comment": "gui.xaero_enlarge_map",
     "translation": "Enlarge Minimap",
-    "key": "key.keyboard.z"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "gui.xaero_instant_waypoint",
     "translation": "Quick Waypoint",
-    "key": "key.keyboard.keypad.add"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "gui.xaero_map_zoom_in",
@@ -87,7 +87,7 @@
   {
     "comment": "gui.xaero_new_waypoint",
     "translation": "New Waypoint",
-    "key": "key.keyboard.b"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "gui.xaero_open_map",
@@ -212,7 +212,7 @@
   {
     "comment": "justzoom.keybinds.keybind.zoom",
     "translation": "Zoom",
-    "key": "key.keyboard.z"
+    "key": "key.keyboard.x"
   },
   {
     "comment": "key.advancements",
@@ -262,27 +262,27 @@
   {
     "comment": "key.hex_vr.draw_spell_l_advanced",
     "translation": "Draw spell - Left hand - Advanced",
-    "key": "key.keyboard.keypad.3"
+    "key": "key.keyboard.keypad.5"
   },
   {
     "comment": "key.hex_vr.draw_spell_l_simple",
     "translation": "Draw spell - Left hand - Simple",
-    "key": "key.keyboard.keypad.1"
+    "key": "key.keyboard.keypad.3"
   },
   {
     "comment": "key.hex_vr.draw_spell_r_advanced",
     "translation": "Draw spell - Right hand - Advanced",
-    "key": "key.keyboard.keypad.4"
+    "key": "key.keyboard.keypad.6"
   },
   {
     "comment": "key.hex_vr.draw_spell_r_simple",
     "translation": "Draw spell - Right hand - Simple",
-    "key": "key.keyboard.keypad.2"
+    "key": "key.keyboard.keypad.4"
   },
   {
     "comment": "key.hexcassettes.ponder_cassette",
     "translation": "Ponder Cassettes",
-    "key": "key.keyboard.g"
+    "key": "key.keyboard.h"
   },
   {
     "comment": "key.hexical.evoke",
@@ -357,7 +357,7 @@
   {
     "comment": "key.jade.narrate",
     "translation": "Narrate",
-    "key": "key.keyboard.keypad.5"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.jade.show_details_alternative",
@@ -387,7 +387,7 @@
   {
     "comment": "key.loadToolbarActivator",
     "translation": "Load Hotbar Activator",
-    "key": "key.keyboard.x"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.modmenu.open_menu",
@@ -427,7 +427,7 @@
   {
     "comment": "key.saveToolbarActivator",
     "translation": "Save Hotbar Activator",
-    "key": "key.keyboard.c"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.screenshot",
@@ -447,7 +447,7 @@
   {
     "comment": "key.socialInteractions",
     "translation": "Social Interactions Screen",
-    "key": "key.keyboard.p"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.spectatorOutlines",
@@ -477,7 +477,7 @@
   {
     "comment": "key.toomanybinds.launcher",
     "translation": "Bind Launcher",
-    "key": "key.keyboard.h"
+    "key": "key.keyboard.right.alt"
   },
   {
     "comment": "key.use",
