@@ -1,0 +1,777 @@
+[
+  {
+    "comment": "[Fabrication] Toggle Stance",
+    "translation": "[Fabrication] Toggle Stance",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "[Fabrication] Toggle/Hold Sprint",
+    "translation": "[Fabrication] Toggle/Hold Sprint",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "create.keyinfo.ponder",
+    "translation": "Ponder",
+    "key": "key.keyboard.w"
+  },
+  {
+    "comment": "create.keyinfo.toolbelt",
+    "translation": "Access Nearby Toolboxes",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "create.keyinfo.toolmenu",
+    "translation": "Focus Schematic Overlay",
+    "key": "key.keyboard.left.alt"
+  },
+  {
+    "comment": "figura.config.action_wheel_button",
+    "translation": "Action Wheel Button",
+    "key": "key.keyboard.b"
+  },
+  {
+    "comment": "figura.config.panic_button",
+    "translation": "Panic Button",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "figura.config.popup_button",
+    "translation": "Popup Menu",
+    "key": "key.keyboard.r"
+  },
+  {
+    "comment": "figura.config.reload_button",
+    "translation": "Reload Avatar",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "figura.config.wardrobe_button",
+    "translation": "Wardrobe Button",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_alternative_list_players",
+    "translation": "\"List Players\" Alternative",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_display_all_sets",
+    "translation": "Toggle All WP Sets Render",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_enlarge_map",
+    "translation": "Enlarge Minimap",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_instant_waypoint",
+    "translation": "Quick Waypoint",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_map_zoom_in",
+    "translation": "Zoom In (alternative)",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_map_zoom_out",
+    "translation": "Zoom Out (alternative)",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_minimap_settings",
+    "translation": "Minimap Settings",
+    "key": "key.keyboard.y"
+  },
+  {
+    "comment": "gui.xaero_new_waypoint",
+    "translation": "New Waypoint",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_open_map",
+    "translation": "Open World Map",
+    "key": "key.keyboard.m"
+  },
+  {
+    "comment": "gui.xaero_open_settings",
+    "translation": "Open Settings",
+    "key": "key.keyboard.right.bracket"
+  },
+  {
+    "comment": "gui.xaero_quick_confirm",
+    "translation": "Quick Manual Confirmation",
+    "key": "key.keyboard.right.shift"
+  },
+  {
+    "comment": "gui.xaero_reverse_entity_radar",
+    "translation": "Reverse Radar Render Order",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_switch_waypoint_set",
+    "translation": "Switch Waypoint Set",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_toggle_dimension",
+    "translation": "Toggle Dimension",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_toggle_entity_radar",
+    "translation": "Toggle Entity Radar",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_toggle_grid",
+    "translation": "Toggle Chunk Grid",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_toggle_light_overlay",
+    "translation": "Toggle Light Overlay",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_toggle_manual_cave_mode",
+    "translation": "Toggle Manual Cave Mode",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_toggle_map",
+    "translation": "Toggle Minimap",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_toggle_map_waypoints",
+    "translation": "Toggle On-Map Waypoints",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_toggle_pac_chunk_claims",
+    "translation": "Toggle Chunk Claims",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_toggle_slime",
+    "translation": "Toggle Slime Chunks",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_toggle_tracked_players_in_world",
+    "translation": "Toggle Tracked Players In World",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_toggle_tracked_players_on_map",
+    "translation": "Toggle Tracked Players On Map",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_toggle_waypoints",
+    "translation": "Toggle In-World Waypoints",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_waypoints_key",
+    "translation": "Open Waypoint Screen",
+    "key": "key.keyboard.u"
+  },
+  {
+    "comment": "gui.xaero_zoom_in",
+    "translation": "Zoom In Minimap",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "gui.xaero_zoom_out",
+    "translation": "Zoom Out Minimap",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "iris.keybind.reload",
+    "translation": "Reload Shaders",
+    "key": "key.keyboard.r"
+  },
+  {
+    "comment": "iris.keybind.shaderPackSelection",
+    "translation": "Shaderpack Selection Screen",
+    "key": "key.keyboard.o"
+  },
+  {
+    "comment": "iris.keybind.toggleShaders",
+    "translation": "Toggle Shaders",
+    "key": "key.keyboard.k"
+  },
+  {
+    "comment": "iris.keybind.wireframe",
+    "translation": "Wireframe (SP only)",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "justzoom.keybinds.keybind.zoom",
+    "translation": "Zoom",
+    "key": "key.keyboard.x"
+  },
+  {
+    "comment": "key.advancements",
+    "translation": "Advancements",
+    "key": "key.keyboard.l"
+  },
+  {
+    "comment": "key.attack",
+    "translation": "Attack/Destroy",
+    "key": "key.mouse.left"
+  },
+  {
+    "comment": "key.back",
+    "translation": "Walk Backwards",
+    "key": "key.keyboard.s"
+  },
+  {
+    "comment": "key.carry.desc",
+    "translation": "Carry",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.chat",
+    "translation": "Open Chat",
+    "key": "key.keyboard.t"
+  },
+  {
+    "comment": "key.command",
+    "translation": "Open Command",
+    "key": "key.keyboard.slash"
+  },
+  {
+    "comment": "key.drop",
+    "translation": "Drop Selected Item",
+    "key": "key.keyboard.q"
+  },
+  {
+    "comment": "key.forward",
+    "translation": "Walk Forwards",
+    "key": "key.keyboard.w"
+  },
+  {
+    "comment": "key.fullscreen",
+    "translation": "Toggle Fullscreen",
+    "key": "key.keyboard.f11"
+  },
+  {
+    "comment": "key.hex_vr.draw_spell_l_advanced",
+    "translation": "Draw spell - Left hand - Advanced",
+    "key": "key.keyboard.keypad.5"
+  },
+  {
+    "comment": "key.hex_vr.draw_spell_l_simple",
+    "translation": "Draw spell - Left hand - Simple",
+    "key": "key.keyboard.keypad.3"
+  },
+  {
+    "comment": "key.hex_vr.draw_spell_r_advanced",
+    "translation": "Draw spell - Right hand - Advanced",
+    "key": "key.keyboard.keypad.6"
+  },
+  {
+    "comment": "key.hex_vr.draw_spell_r_simple",
+    "translation": "Draw spell - Right hand - Simple",
+    "key": "key.keyboard.keypad.4"
+  },
+  {
+    "comment": "key.hexcassettes.ponder_cassette",
+    "translation": "Ponder Cassettes",
+    "key": "key.keyboard.h"
+  },
+  {
+    "comment": "key.hexical.evoke",
+    "translation": "Evoke",
+    "key": "key.keyboard.r"
+  },
+  {
+    "comment": "key.hexical.open_hexbook",
+    "translation": "Open Hex Notebook",
+    "key": "key.keyboard.n"
+  },
+  {
+    "comment": "key.hexical.telepathy",
+    "translation": "Call Telepathy",
+    "key": "key.keyboard.g"
+  },
+  {
+    "comment": "key.hotbar.1",
+    "translation": "Hotbar Slot 1",
+    "key": "key.keyboard.1"
+  },
+  {
+    "comment": "key.hotbar.2",
+    "translation": "Hotbar Slot 2",
+    "key": "key.keyboard.2"
+  },
+  {
+    "comment": "key.hotbar.3",
+    "translation": "Hotbar Slot 3",
+    "key": "key.keyboard.3"
+  },
+  {
+    "comment": "key.hotbar.4",
+    "translation": "Hotbar Slot 4",
+    "key": "key.keyboard.4"
+  },
+  {
+    "comment": "key.hotbar.5",
+    "translation": "Hotbar Slot 5",
+    "key": "key.keyboard.5"
+  },
+  {
+    "comment": "key.hotbar.6",
+    "translation": "Hotbar Slot 6",
+    "key": "key.keyboard.6"
+  },
+  {
+    "comment": "key.hotbar.7",
+    "translation": "Hotbar Slot 7",
+    "key": "key.keyboard.7"
+  },
+  {
+    "comment": "key.hotbar.8",
+    "translation": "Hotbar Slot 8",
+    "key": "key.keyboard.8"
+  },
+  {
+    "comment": "key.hotbar.9",
+    "translation": "Hotbar Slot 9",
+    "key": "key.keyboard.9"
+  },
+  {
+    "comment": "key.inventory",
+    "translation": "Open/Close Inventory",
+    "key": "key.keyboard.e"
+  },
+  {
+    "comment": "key.jade.config",
+    "translation": "Open Config",
+    "key": "key.keyboard.keypad.0"
+  },
+  {
+    "comment": "key.jade.narrate",
+    "translation": "Narrate",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.jade.show_details_alternative",
+    "translation": "Show Details (Alternative)",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.jade.show_overlay",
+    "translation": "Show Overlay",
+    "key": "key.keyboard.keypad.1"
+  },
+  {
+    "comment": "key.jade.toggle_liquid",
+    "translation": "Toggle Fluid",
+    "key": "key.keyboard.keypad.2"
+  },
+  {
+    "comment": "key.jump",
+    "translation": "Jump",
+    "key": "key.keyboard.space"
+  },
+  {
+    "comment": "key.left",
+    "translation": "Strafe Left",
+    "key": "key.keyboard.a"
+  },
+  {
+    "comment": "key.loadToolbarActivator",
+    "translation": "Load Hotbar Activator",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.modmenu.open_menu",
+    "translation": "Open Mod Menu",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.observable.profile",
+    "translation": "Show profiler screen",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.openNotes",
+    "translation": "Open Notes",
+    "key": "key.keyboard.n"
+  },
+  {
+    "comment": "key.open_muffler_gui",
+    "translation": "Open sound muffler screen",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.pickItem",
+    "translation": "Pick Block",
+    "key": "key.mouse.middle"
+  },
+  {
+    "comment": "key.playerlist",
+    "translation": "List Players",
+    "key": "key.keyboard.tab"
+  },
+  {
+    "comment": "key.right",
+    "translation": "Strafe Right",
+    "key": "key.keyboard.d"
+  },
+  {
+    "comment": "key.saveToolbarActivator",
+    "translation": "Save Hotbar Activator",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.screenshot",
+    "translation": "Take Screenshot",
+    "key": "key.keyboard.f2"
+  },
+  {
+    "comment": "key.smoothCamera",
+    "translation": "Toggle Cinematic Camera",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.sneak",
+    "translation": "Sneak",
+    "key": "key.keyboard.left.shift"
+  },
+  {
+    "comment": "key.socialInteractions",
+    "translation": "Social Interactions Screen",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.spectatorOutlines",
+    "translation": "Highlight Players (Spectators)",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.sprint",
+    "translation": "Sprint",
+    "key": "key.keyboard.left.control"
+  },
+  {
+    "comment": "key.swapOffhand",
+    "translation": "Swap Item With Offhand",
+    "key": "key.keyboard.f"
+  },
+  {
+    "comment": "key.togglePerspective",
+    "translation": "Toggle Perspective",
+    "key": "key.keyboard.f5"
+  },
+  {
+    "comment": "key.toomanybinds.favorite",
+    "translation": "Mark bind as favorite",
+    "key": "key.keyboard.f4"
+  },
+  {
+    "comment": "key.toomanybinds.launcher",
+    "translation": "Bind Launcher",
+    "key": "key.keyboard.right.alt"
+  },
+  {
+    "comment": "key.use",
+    "translation": "Use Item/Place Block",
+    "key": "key.mouse.right"
+  },
+  {
+    "comment": "keys.armourers_workshop.open-wardrobe",
+    "translation": "Open Wardrobe",
+    "key": "key.keyboard.p"
+  },
+  {
+    "comment": "keys.armourers_workshop.undo",
+    "translation": "Undo",
+    "key": "key.keyboard.z"
+  },
+  {
+    "comment": "supplementaries.keybind.quiver",
+    "translation": "Quiver",
+    "key": "key.keyboard.v"
+  },
+  {
+    "comment": "tcdcommons.key.refresh_current_screen",
+    "translation": "Refresh current screen",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.climbeyGrab",
+    "translation": "Climb Claws",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.climbeyJump",
+    "translation": "Jump Boots",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.exportWorld",
+    "translation": "Export Menu World",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.flickStick",
+    "translation": "Flick Stick Rotate",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.freeMoveRotate",
+    "translation": "Move/Rotate",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.freeMoveStrafe",
+    "translation": "Move/Strafe",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.guiAlt",
+    "translation": "Alt",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.guiCtrl",
+    "translation": "Ctrl",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.guiLeftClick",
+    "translation": "Left Click",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.guiMiddleClick",
+    "translation": "Middle Click",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.guiRightClick",
+    "translation": "Right Click",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.guiScrollAxis",
+    "translation": "Scroll",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.guiScrollDown",
+    "translation": "Scroll Down",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.guiScrollUp",
+    "translation": "Scroll Up",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.guiShift",
+    "translation": "Shift",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.hotbarNext",
+    "translation": "Hotbar Next",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.hotbarPrev",
+    "translation": "Hotbar Previous",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.hotbarScroll",
+    "translation": "Hotbar Scroll",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.hotbarSwipeX",
+    "translation": "Hotbar Swipe (Left/Right)",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.hotbarSwipeY",
+    "translation": "Hotbar Swipe (Up/Down)",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.ingameMenuButton",
+    "translation": "Game Menu",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.keyboardClick",
+    "translation": "Click",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.keyboardShift",
+    "translation": "Shift",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.moveThirdPersonCam",
+    "translation": "Move Third Person Camera",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.quickHandheldCam",
+    "translation": "Quick Camera",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.quickTorch",
+    "translation": "Quick Torch",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.quickcommand1",
+    "translation": "Quick Command  1",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.quickcommand10",
+    "translation": "Quick Command 10",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.quickcommand11",
+    "translation": "Quick Command 11",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.quickcommand12",
+    "translation": "Quick Command 12",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.quickcommand2",
+    "translation": "Quick Command  2",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.quickcommand3",
+    "translation": "Quick Command  3",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.quickcommand4",
+    "translation": "Quick Command  4",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.quickcommand5",
+    "translation": "Quick Command  5",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.quickcommand6",
+    "translation": "Quick Command  6",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.quickcommand7",
+    "translation": "Quick Command  7",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.quickcommand8",
+    "translation": "Quick Command  8",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.quickcommand9",
+    "translation": "Quick Command  9",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.radialMenu",
+    "translation": "Open Radial Menu",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.rotateAxis",
+    "translation": "Rotate Only",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.rotateFree",
+    "translation": "Rotate Free",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.rotateLeft",
+    "translation": "Rotate Left",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.rotateRight",
+    "translation": "Rotate Right",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.swapMirrorView",
+    "translation": "Swap Mirror View",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.teleport",
+    "translation": "Teleport",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.teleportFallback",
+    "translation": "Walk Forwards When Teleport Disabled",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.toggleHandheldCam",
+    "translation": "Toggle Camera",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.toggleKeyboard",
+    "translation": "Show/Hide Keyboard",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.toggleMovement",
+    "translation": "Toggle Movement Mode",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.togglePlayerList",
+    "translation": "Toggle Player List",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.toggleWalkUp",
+    "translation": "Toggle Walk Up Blocks",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.trackpadTouch",
+    "translation": "Trackpad Touch",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.vrInteract",
+    "translation": "Contextual Interact",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "vivecraft.key.walkabout",
+    "translation": "Walkabout",
+    "key": "key.keyboard.unknown"
+  }
+]

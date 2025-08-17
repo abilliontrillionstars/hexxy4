@@ -1,7 +1,7 @@
 {
 	"miscConfig": {
 		"ideaLifetime": 72000,
-		"planeShiftOtherPlayers": false,
+		"planeShiftOtherPlayers": true,
 		"swapRequiresNoosphere": false,
 		"swapSwapsBEs": true,
 		"impulseRedirectsFireball": true,

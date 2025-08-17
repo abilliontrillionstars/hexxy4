@@ -11,3 +11,8 @@ hash = "ecccbc9a971d261405a150e325c09fd22d24f465"
 [update.modrinth]
 mod-id = "s86X568j"
 version = "74w5ono0"
+
+[option]
+optional = true
+default = false
+description = "lets your client translate strings from chunkyborder, probably not needed"

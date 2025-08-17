@@ -11,3 +11,8 @@ hash = "29faa4d1c22509b67a6d66b2a8c9d3b5aa483b65"
 [update.modrinth]
 mod-id = "TQTTVgYE"
 version = "K0Wj117C"
+
+[option]
+optional = true
+default = false
+description = "lets your client translate strings from carpet, probably not needed"
