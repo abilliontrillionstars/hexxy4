@@ -1,13 +1,13 @@
 name = "Slate Works"
-filename = "Slate_Work-0.3.4.jar"
+filename = "Slate_Work-0.3.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3DnSSjl3/versions/deotzBgJ/Slate_Work-0.3.4.jar"
+url = "https://cdn.modrinth.com/data/3DnSSjl3/versions/MWwrmP3s/Slate_Work-0.3.5.jar"
 hash-format = "sha1"
-hash = "cd2ec4859b02a1a3bd63fb953ecfae572ace7924"
+hash = "bf91f5f3802290daf16f2d76cf9cbe1b8148308b"
 
 [update]
 [update.modrinth]
 mod-id = "3DnSSjl3"
-version = "deotzBgJ"
+version = "MWwrmP3s"
