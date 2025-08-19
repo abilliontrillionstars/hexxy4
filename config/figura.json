@@ -3,5 +3,6 @@
   "inventory_scissor": false,
   "first_person_matrices": false,
   "popup_button": "key.keyboard.unknown",
+  "default_permission_level": 3,
   "emojis": 2
 }
