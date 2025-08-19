@@ -11,3 +11,8 @@ hash = "5e430805cf3dfd79fc5f0995f97604edac1491cd"
 [update.modrinth]
 mod-id = "yjgIrBjZ"
 version = "RiTU8rGC"
+
+[option]
+optional = true
+default = true
+description = "lets you re log into mc without restarting mc, especially useful if your session gets invalidated"
