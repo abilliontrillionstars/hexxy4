@@ -1,5 +1,3 @@
-craftingTable.remove(<item:hexical:pedestal>);
-
 craftingTable.remove(<item:phlexiful:battery_pants>);
 craftingTable.remove(<item:phlexiful:media_weave>);
 
