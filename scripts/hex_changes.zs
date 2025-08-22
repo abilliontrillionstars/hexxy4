@@ -1,7 +1,5 @@
 import crafttweaker.api.ingredient.IIngredient;
 
-craftingTable.remove(<item:hexical:pedestal>);
-
 craftingTable.remove(<item:phlexiful:battery_pants>);
 //craftingTable.remove(<item:phlexiful:media_weave>); Cant make the phlexiful:welding_mask without this. So we (Sona/Sophia) commented it out
 
