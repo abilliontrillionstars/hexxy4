@@ -16,7 +16,19 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
-    "examplemod:example_item"
+    "create:encased_fan",
+    "create:deployer",
+    "create:mechanical_mixer",
+    "create:mechanical_saw",
+    "create:mechanical_pump",
+    "create:mechanical_press",
+    "create:mechanical_harvester",
+    "create:mechanical_plough",
+    "create:mechanical_crafter",
+    "create:mechanical_drill",
+    "create:millstone",
+    "supplementaries:doormat",
+    "phlexiful:battery_pants"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
