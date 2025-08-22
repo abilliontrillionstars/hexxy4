@@ -28,7 +28,8 @@
     "create:mechanical_drill",
     "create:millstone",
     "supplementaries:doormat",
-    "phlexiful:battery_pants"
+    "phlexiful:battery_pants",
+    "gravity_changer:plating"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
