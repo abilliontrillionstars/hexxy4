@@ -245,6 +245,16 @@
     "key": "key.keyboard.slash"
   },
   {
+    "comment": "key.cycleLeft",
+    "translation": "Cycle Hotbar Slot Left",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.cycleRight",
+    "translation": "Cycle Hotbar Slot Right",
+    "key": "key.keyboard.unknown"
+  },
+  {
     "comment": "key.drop",
     "translation": "Drop Selected Item",
     "key": "key.keyboard.q"
@@ -465,9 +475,24 @@
     "key": "key.keyboard.f"
   },
   {
+    "comment": "key.toggleCarriedItemTooltips",
+    "translation": "Toggle Carried Item Tooltips",
+    "key": "key.keyboard.unknown"
+  },
+  {
     "comment": "key.togglePerspective",
     "translation": "Toggle Perspective",
     "key": "key.keyboard.f5"
+  },
+  {
+    "comment": "key.toggleSelectedItemTooltips",
+    "translation": "Toggle Selected Item Tooltips",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.toggleVisualItemContents",
+    "translation": "Toggle Visual Item Contents",
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.toomanybinds.favorite",
