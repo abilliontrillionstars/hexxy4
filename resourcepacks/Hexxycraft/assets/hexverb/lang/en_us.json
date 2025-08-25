@@ -1,0 +1,7 @@
+{
+    "hexcasting.action.hexverb:sample_block": "Sample Block",
+
+    "hexverb.entry.hexverb_spells": "Sample Block",
+    "hexverb.page.hexverb_spells.1": "A crude copy of $(l:patterns/spells/great/swap_space)$(action)Spatial Interchange/$.$(br)It is much cheaper than normal, but it has various limitations:$(br)• It is only one-way.$(br)• It only moves a single block.$(br)• It doesn't have enough force to displace anything but air.$(br)$(br)I've not yet found where it pulls from, but the things pulled through are very similar to what's in the area around the given location.",
+    "hexverb.page.hexverb_spells.2": "This spell samples a random block that can spawn in the biome of the given location and creates it.$(br)Costs 1 pinch of $(l:items/amethyst)amethyst dust/$$(br)(1/8th of a dust)."
+}
