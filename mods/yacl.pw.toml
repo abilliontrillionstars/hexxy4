@@ -15,4 +15,4 @@ version = "dvS5DjUA"
 [option]
 optional = true
 default = true
-description = "needed for particle rain"
+description = "needed for particle rain and zoomify"
