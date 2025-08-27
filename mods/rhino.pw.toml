@@ -1,6 +1,6 @@
 name = "Rhino"
 filename = "rhino-fabric-2001.2.3-build.10.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/sk9knFPE/versions/MLIu0Tct/rhino-fabric-2001.2.3-build.10.jar"
