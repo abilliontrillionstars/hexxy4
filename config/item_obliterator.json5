@@ -16,7 +16,6 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
-    "create:encased_fan",
     "create:deployer",
     "create:mechanical_mixer",
     "create:mechanical_saw",

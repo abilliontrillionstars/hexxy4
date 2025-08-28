@@ -3,6 +3,7 @@
 <recipetype:create:milling>.removeAll();
 <recipetype:create:sequenced_assembly>.removeAll();
 <recipetype:create:haunting>.removeAll();
+<recipetype:create:splashing>.removeAll();
 <recipetype:create:pressing>.removeAll();
 <recipetype:create:mixing>.removeAll();
 <recipetype:create:deploying>.removeAll();
