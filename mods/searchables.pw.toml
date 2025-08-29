@@ -11,3 +11,8 @@ hash = "d7cbd06088a90f8adfd4bb9a99d1c256bcdf22a1"
 [update.modrinth]
 mod-id = "fuuu3xnx"
 version = "eh4IBlu2"
+
+[option]
+optional = true
+default = true
+description = "library mod for controlling"

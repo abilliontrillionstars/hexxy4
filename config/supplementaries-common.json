@@ -70,12 +70,12 @@
       "drink_from_jar": true,
       "drink_from_jar_item": false,
       "jar_auto_detect": false,
-      "jar_capture": true,
+      "jar_capture": false,
       "jar_cookies": true,
       "jar_liquids": true
     },
     "cage": {
-      "enabled": true,
+      "enabled": false,
       "allow_all_mobs": true,
       "cage_allow_all_babies": true,
       "cage_auto_detect": false,
@@ -207,8 +207,7 @@
       "gui": true
     },
     "pedestal": {
-      "enabled": true,
-      "crystal_enchanting": 3
+      "enabled": true
     },
     "ash": {
       "enabled": true,
@@ -285,7 +284,7 @@
     "quiver": {
       "enabled": false,
       "use_without_slow": true,
-      "slots": 12,
+      "slots": 6,
       "quiver_skeleton_spawn_chance": 0.03,
       "only_works_in_curio": false,
       "quiver_pickup": true
@@ -411,8 +410,6 @@
     "placeable_books": {
       "written_books": true,
       "enabled": true,
-      "book_power": 1.0,
-      "enchanted_book_power": 1.334,
       "mixed_books": true
     },
     "zombie_horse": {

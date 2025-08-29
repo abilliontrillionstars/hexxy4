@@ -1,6 +1,6 @@
 name = "William Wythers' Expanded Ecosphere"
 filename = "expanded_ecosphere-3.2.4-fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/O1XGs7ps/versions/xrUchinI/expanded_ecosphere-3.2.4-fabric.jar"
@@ -11,3 +11,8 @@ hash = "2e0676191c408715962d24569faf7b5ecd481bf7"
 [update.modrinth]
 mod-id = "O1XGs7ps"
 version = "xrUchinI"
+
+[option]
+optional = true
+default = false
+description = "lets your client generate worlds like the server"

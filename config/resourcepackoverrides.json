@@ -1,0 +1,15 @@
+{
+  "schema_version": "2",
+  "pack_overrides": {
+    "file/toki-pona.zip": {
+      "hidden": true,
+      "required": true,
+      "force_compatible": true
+      },
+    "file/Hexxycraft": {
+      "hidden": true,
+      "required": true,
+      "force_compatible": true
+      }
+  }
+}
