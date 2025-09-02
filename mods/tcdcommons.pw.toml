@@ -11,3 +11,8 @@ hash = "41416a9f849b170ce68139256d317daa91a82d70"
 [update.modrinth]
 mod-id = "Eldc1g37"
 version = "BBxTOVSm"
+
+[option]
+optional = true
+default = true
+description = "Depended on by betterstats"

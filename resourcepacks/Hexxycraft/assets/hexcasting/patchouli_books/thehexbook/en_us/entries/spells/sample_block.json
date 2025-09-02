@@ -1,0 +1,22 @@
+{
+    "name": "hexverb.entry.hexverb_spells",
+    "category": "hexcasting:patterns/spells",
+    "icon": "supplementaries:speaker_block",
+    "sortnum": 1,
+    "advancement": "hexcasting:root",
+    "read_by_default": false,
+    "pages": [
+      {
+        "type": "patchouli:text",
+        "text": "hexverb.page.hexverb_spells.1"
+      },
+      {
+        "type": "hexcasting:pattern",
+        "op_id": "hexverb:sample_block",
+        "anchor": "hexverb:sample_block",
+        "input": "vector",
+        "output": "",
+        "text": "hexverb.page.hexverb_spells.2"
+      }
+    ]
+  }

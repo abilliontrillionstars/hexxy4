@@ -28,7 +28,7 @@ registerBlock(<item:hexcasting:slate_block>,
 
 function registerBlock(input as IIngredient, items as IIngredient[]) as void{
     for k, v in items {
-        stoneCutter.addRecipe("hex_" + v.items[0].descriptionId, input, v);
-        stoneCutter.addRecipe("hex_backwards" + v.items[0].descriptionId, v, input);
+        stoneCutter.addRecipe("hexxycraft/hex_" + v.items[0].descriptionId, input, v);
+        stoneCutter.addRecipe("hexxycraft/hex_backwards" + v.items[0].descriptionId, v, input);
     }
 }
