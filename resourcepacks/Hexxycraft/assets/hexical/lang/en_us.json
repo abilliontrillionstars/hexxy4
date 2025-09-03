@@ -1,0 +1,7 @@
+{
+    "hexcasting.action.hexical:disguise_mage_block": "Disguise",
+    "hexical.page.disguise_mage_block.summary": "Sets this mage blocks appearance and shape to match the block described by the given identifier, but without any of its unique $(l:patterns/scrying/blocks#hexpose:get_blockstates)$(action)Facets/$.",
+    
+    "hexcasting.action.hexical:tweak_mage_block": "Tweak",
+    "hexical.page.tweak_mage_block.summary": "for now, this spell is just a copy of $(l:patterns/spells/mage_blocks#hexical:disguise_mage_block)$(action)Disguise Mage Block/$."
+}
