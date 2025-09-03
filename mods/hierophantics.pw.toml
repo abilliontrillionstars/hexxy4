@@ -1,13 +1,13 @@
 name = "Hierophantics"
-filename = "hierophantics-fabric-1.3.1.jar"
+filename = "hierophantics-fabric-1.3.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ybwf7iLN/versions/GKy3lrqA/hierophantics-fabric-1.3.1.jar"
+url = "https://cdn.modrinth.com/data/ybwf7iLN/versions/iEY2L8in/hierophantics-fabric-1.3.2.jar"
 hash-format = "sha1"
-hash = "97004ee555b83af857876a26f834a913e16af577"
+hash = "6beb79a81f846c7bbbcce04dfe71d3d10e06d003"
 
 [update]
 [update.modrinth]
 mod-id = "ybwf7iLN"
-version = "GKy3lrqA"
+version = "iEY2L8in"
