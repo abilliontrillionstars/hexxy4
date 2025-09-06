@@ -17,12 +17,12 @@
   {
     "comment": "create.keyinfo.toolbelt",
     "translation": "Access Nearby Toolboxes",
-    "key": "key.keyboard.unknown"
+    "key": "key.keyboard.left.alt"
   },
   {
     "comment": "create.keyinfo.toolmenu",
     "translation": "Focus Schematic Overlay",
-    "key": "key.keyboard.left.alt"
+    "key": "key.keyboard.right.alt"
   },
   {
     "comment": "figura.config.action_wheel_button",
@@ -37,7 +37,7 @@
   {
     "comment": "figura.config.popup_button",
     "translation": "Popup Menu",
-    "key": "key.keyboard.r"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "figura.config.reload_button",
@@ -62,12 +62,12 @@
   {
     "comment": "gui.xaero_enlarge_map",
     "translation": "Enlarge Minimap",
-    "key": "key.keyboard.unknown"
+    "key": "key.keyboard.z"
   },
   {
     "comment": "gui.xaero_instant_waypoint",
     "translation": "Quick Waypoint",
-    "key": "key.keyboard.unknown"
+    "key": "key.keyboard.keypad.add"
   },
   {
     "comment": "gui.xaero_map_zoom_in",
@@ -192,7 +192,7 @@
   {
     "comment": "iris.keybind.reload",
     "translation": "Reload Shaders",
-    "key": "key.keyboard.r"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "iris.keybind.shaderPackSelection",
@@ -208,11 +208,6 @@
     "comment": "iris.keybind.wireframe",
     "translation": "Wireframe (SP only)",
     "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "justzoom.keybinds.keybind.zoom",
-    "translation": "Zoom",
-    "key": "key.keyboard.x"
   },
   {
     "comment": "key.advancements",
@@ -255,6 +250,11 @@
     "key": "key.keyboard.unknown"
   },
   {
+    "comment": "key.deathlog.death_screen",
+    "translation": "Death Log Screen",
+    "key": "key.keyboard.end"
+  },
+  {
     "comment": "key.drop",
     "translation": "Drop Selected Item",
     "key": "key.keyboard.q"
@@ -272,22 +272,22 @@
   {
     "comment": "key.hex_vr.draw_spell_l_advanced",
     "translation": "Draw spell - Left hand - Advanced",
-    "key": "key.keyboard.keypad.5"
+    "key": "key.keyboard.keypad.3"
   },
   {
     "comment": "key.hex_vr.draw_spell_l_simple",
     "translation": "Draw spell - Left hand - Simple",
-    "key": "key.keyboard.keypad.3"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.hex_vr.draw_spell_r_advanced",
     "translation": "Draw spell - Right hand - Advanced",
-    "key": "key.keyboard.keypad.6"
+    "key": "key.keyboard.keypad.4"
   },
   {
     "comment": "key.hex_vr.draw_spell_r_simple",
     "translation": "Draw spell - Right hand - Simple",
-    "key": "key.keyboard.keypad.4"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.hexcassettes.ponder_cassette",
@@ -367,7 +367,7 @@
   {
     "comment": "key.jade.narrate",
     "translation": "Narrate",
-    "key": "key.keyboard.unknown"
+    "key": "key.keyboard.keypad.5"
   },
   {
     "comment": "key.jade.show_details_alternative",
@@ -397,7 +397,7 @@
   {
     "comment": "key.loadToolbarActivator",
     "translation": "Load Hotbar Activator",
-    "key": "key.keyboard.unknown"
+    "key": "key.keyboard.x"
   },
   {
     "comment": "key.modmenu.open_menu",
@@ -437,7 +437,7 @@
   {
     "comment": "key.saveToolbarActivator",
     "translation": "Save Hotbar Activator",
-    "key": "key.keyboard.unknown"
+    "key": "key.keyboard.c"
   },
   {
     "comment": "key.screenshot",
@@ -502,7 +502,7 @@
   {
     "comment": "key.toomanybinds.launcher",
     "translation": "Bind Launcher",
-    "key": "key.keyboard.right.alt"
+    "key": "key.keyboard.h"
   },
   {
     "comment": "key.use",
@@ -517,12 +517,12 @@
   {
     "comment": "keys.armourers_workshop.undo",
     "translation": "Undo",
-    "key": "key.keyboard.z"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "supplementaries.keybind.quiver",
     "translation": "Quiver",
-    "key": "key.keyboard.unknown"
+    "key": "key.keyboard.v"
   },
   {
     "comment": "tcdcommons.key.refresh_current_screen",
