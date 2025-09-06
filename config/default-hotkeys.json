@@ -292,7 +292,7 @@
   {
     "comment": "key.hexcassettes.ponder_cassette",
     "translation": "Ponder Cassettes",
-    "key": "key.keyboard.h"
+    "key": "key.keyboard.semicolon"
   },
   {
     "comment": "key.hexical.evoke",
@@ -412,7 +412,7 @@
   {
     "comment": "key.openNotes",
     "translation": "Open Notes",
-    "key": "key.keyboard.n"
+    "key": "key.keyboard.backslash"
   },
   {
     "comment": "key.open_muffler_gui",
