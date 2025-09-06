@@ -522,7 +522,7 @@
   {
     "comment": "supplementaries.keybind.quiver",
     "translation": "Quiver",
-    "key": "key.keyboard.v"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "tcdcommons.key.refresh_current_screen",
