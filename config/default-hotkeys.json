@@ -62,12 +62,12 @@
   {
     "comment": "gui.xaero_enlarge_map",
     "translation": "Enlarge Minimap",
-    "key": "key.keyboard.z"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "gui.xaero_instant_waypoint",
     "translation": "Quick Waypoint",
-    "key": "key.keyboard.keypad.add"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "gui.xaero_map_zoom_in",
@@ -82,7 +82,7 @@
   {
     "comment": "gui.xaero_minimap_settings",
     "translation": "Minimap Settings",
-    "key": "key.keyboard.y"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "gui.xaero_new_waypoint",
@@ -102,7 +102,7 @@
   {
     "comment": "gui.xaero_quick_confirm",
     "translation": "Quick Manual Confirmation",
-    "key": "key.keyboard.right.shift"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "gui.xaero_reverse_entity_radar",
@@ -177,7 +177,7 @@
   {
     "comment": "gui.xaero_waypoints_key",
     "translation": "Open Waypoint Screen",
-    "key": "key.keyboard.u"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "gui.xaero_zoom_in",
@@ -202,7 +202,7 @@
   {
     "comment": "iris.keybind.toggleShaders",
     "translation": "Toggle Shaders",
-    "key": "key.keyboard.k"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "iris.keybind.wireframe",
@@ -212,7 +212,7 @@
   {
     "comment": "key.advancements",
     "translation": "Advancements",
-    "key": "key.keyboard.l"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.attack",
@@ -252,7 +252,7 @@
   {
     "comment": "key.deathlog.death_screen",
     "translation": "Death Log Screen",
-    "key": "key.keyboard.end"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.drop",
@@ -272,7 +272,7 @@
   {
     "comment": "key.hex_vr.draw_spell_l_advanced",
     "translation": "Draw spell - Left hand - Advanced",
-    "key": "key.keyboard.keypad.3"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.hex_vr.draw_spell_l_simple",
@@ -282,7 +282,7 @@
   {
     "comment": "key.hex_vr.draw_spell_r_advanced",
     "translation": "Draw spell - Right hand - Advanced",
-    "key": "key.keyboard.keypad.4"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.hex_vr.draw_spell_r_simple",
@@ -362,12 +362,12 @@
   {
     "comment": "key.jade.config",
     "translation": "Open Config",
-    "key": "key.keyboard.keypad.0"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.jade.narrate",
     "translation": "Narrate",
-    "key": "key.keyboard.keypad.5"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.jade.show_details_alternative",
@@ -377,12 +377,12 @@
   {
     "comment": "key.jade.show_overlay",
     "translation": "Show Overlay",
-    "key": "key.keyboard.keypad.1"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.jade.toggle_liquid",
     "translation": "Toggle Fluid",
-    "key": "key.keyboard.keypad.2"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "key.jump",
