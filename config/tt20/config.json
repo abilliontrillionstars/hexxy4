@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "block-entity-acceleration": false,
+  "block-entity-acceleration": true,
   "block-breaking-acceleration": true,
   "potion-effect-acceleration": true,
   "fluid-acceleration": true,
