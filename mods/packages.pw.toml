@@ -1,0 +1,13 @@
+name = "Packages"
+filename = "packages-1.20.1-fabric-2025.8.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/10DZYVis/versions/IHVzcOfW/packages-1.20.1-fabric-2025.8.21.jar"
+hash-format = "sha1"
+hash = "58e208b86b2484c1a44b16b2dbfe6c14e42fc691"
+
+[update]
+[update.modrinth]
+mod-id = "10DZYVis"
+version = "IHVzcOfW"
