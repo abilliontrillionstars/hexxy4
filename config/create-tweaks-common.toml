@@ -1,0 +1,5 @@
+[fans]
+	#Set to false to disable bulk blasting with fans (most smelting recipes).
+	enableBlasting = false
+	#Set to false to disable bulk smoking with fans (food cooking recipes).
+	enableSmoking = false

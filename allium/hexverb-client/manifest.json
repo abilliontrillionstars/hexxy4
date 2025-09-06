@@ -1,0 +1,9 @@
+{
+  "id": "hexverb",
+  "version": "1.0.0",
+  "name": "hexverb",
+  "entrypoints": {
+    "dynamic": "main.lua"
+  },
+  "mappings": "yarn"
+}

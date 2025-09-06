@@ -1,0 +1,7 @@
+name = "Create Tweaks"
+filename = "create-tweaks-0.1.0+1.20.1.jar"
+
+[download]
+url = "https://github.com/ShadowCube264/create-tweaks/releases/download/0.1.0/create-tweaks-0.1.0+1.20.1.jar"
+hash-format = "sha256"
+hash = "92c474a74c0f136f53e8720397964212117c01c80adacb125e5f3b23947c1444"
