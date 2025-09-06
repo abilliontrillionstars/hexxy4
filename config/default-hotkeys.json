@@ -97,7 +97,7 @@
   {
     "comment": "gui.xaero_open_settings",
     "translation": "Open Settings",
-    "key": "key.keyboard.right.bracket"
+    "key": "key.keyboard.unknown"
   },
   {
     "comment": "gui.xaero_quick_confirm",
@@ -397,7 +397,7 @@
   {
     "comment": "key.loadToolbarActivator",
     "translation": "Load Hotbar Activator",
-    "key": "key.keyboard.x"
+    "key": "key.keyboard.left.bracket"
   },
   {
     "comment": "key.modmenu.open_menu",
@@ -452,7 +452,7 @@
   {
     "comment": "key.saveToolbarActivator",
     "translation": "Save Hotbar Activator",
-    "key": "key.keyboard.c"
+    "key": "key.keyboard.right.bracket"
   },
   {
     "comment": "key.screenshot",
