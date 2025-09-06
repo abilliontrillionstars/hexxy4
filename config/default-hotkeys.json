@@ -410,6 +410,21 @@
     "key": "key.keyboard.unknown"
   },
   {
+    "comment": "key.ok-boomer.boom",
+    "translation": "[OK Boomer] Boom",
+    "key": "key.keyboard.x"
+  },
+  {
+    "comment": "key.ok-boomer.rotat",
+    "translation": "[OK Boomer] Rotat",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ok-boomer.screen_boom",
+    "translation": "[OK Boomer] Screen Boom",
+    "key": "key.keyboard.unknown"
+  },
+  {
     "comment": "key.openNotes",
     "translation": "Open Notes",
     "key": "key.keyboard.backslash"
