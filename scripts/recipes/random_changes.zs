@@ -6,4 +6,4 @@ craftingTable.addShaped("hexxycraft/bundle", <item:minecraft:bundle>, [
     [<item:minecraft:leather>],
 ]);
 
-craftingTable.addShapeless("hexxycraft/slimeball", <item:minecraft:slimeball>, [<item:farmersdelight:wheat_dough>, <item:minecraft:lime_dye>]);
+craftingTable.addShapeless("hexxycraft/slimeball", <item:minecraft:slime_ball>, [<item:farmersdelight:wheat_dough>, <item:minecraft:lime_dye>]);
