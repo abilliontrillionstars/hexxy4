@@ -13,6 +13,6 @@ mod-id = "fALzjamp"
 version = "NHWYq9at"
 
 [option]
-optional = true
+optional = false
 default = true
 description = "lets your client translate strings from chunky and see the worldborder (with chunkyborder)"

@@ -13,6 +13,6 @@ mod-id = "s86X568j"
 version = "74w5ono0"
 
 [option]
-optional = true
+optional = false
 default = true
 description = "lets your client translate strings from chunky and see the worldborder (with chunky)"
