@@ -15,4 +15,4 @@ version = "NHWYq9at"
 [option]
 optional = true
 default = false
-description = "lets your client translate strings from chunky, probably not needed"
+description = "lets your client translate strings from chunky and see the worldborder (with chunkyborder)"
