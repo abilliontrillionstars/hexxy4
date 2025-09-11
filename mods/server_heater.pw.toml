@@ -1,0 +1,13 @@
+name = "Server Heater"
+filename = "server_heater-fabric-1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/oMTnGSCS/versions/38fn9dWm/server_heater-fabric-1.0.jar"
+hash-format = "sha1"
+hash = "b2f42b0899c5385bf07cf9ede8c2f3b7fe8346b3"
+
+[update]
+[update.modrinth]
+mod-id = "oMTnGSCS"
+version = "38fn9dWm"
