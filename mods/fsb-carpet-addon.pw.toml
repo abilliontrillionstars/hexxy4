@@ -1,15 +1,15 @@
 name = "fsb-carpet-addon"
-filename = "fsb-carpet-addon-0.1.0.jar"
+filename = "fsb-carpet-addon-0.1.1.jar"
 side = "server"
 
 [download]
-url = "https://github.com/penguinencounter/fsb-carpet-addon/releases/download/v0.1.0/fsb-carpet-addon-0.1.0.jar"
+url = "https://github.com/penguinencounter/fsb-carpet-addon/releases/download/v0.1.1/fsb-carpet-addon-0.1.1.jar"
 hash-format = "sha256"
-hash = "736fe6fc5c6ebbb1915cc03a55d2a4f73a7abe512b12c9ff60803e38600a8838"
+hash = "6e6fbf2069ec9be848228ac5de0c276874720ec9c4e72e93b1152d52eb2ba9d9"
 
 [update]
 [update.github]
 branch = "main"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "penguinencounter/fsb-carpet-addon"
-tag = "v0.1.0"
+tag = "v0.1.1"
