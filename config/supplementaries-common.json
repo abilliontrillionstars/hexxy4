@@ -396,8 +396,8 @@
       "enabled": true
     },
     "bottle_xp": {
-      "enabled": false,
-      "cost": 2,
+      "enabled": true,
+      "cost": 0,
       "target_block": ""
     },
     "map_tweaks": {

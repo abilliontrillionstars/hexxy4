@@ -1,18 +1,17 @@
 name = "Raknetify"
-filename = "raknetify-fabric-0.1.0+alpha.5.174-all.jar"
+filename = "raknetify-fabric-0.1.0+alpha.5.178-all.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5IovSY3u/versions/xo081i0p/raknetify-fabric-0.1.0%2Balpha.5.174-all.jar"
+url = "https://cdn.modrinth.com/data/5IovSY3u/versions/8GznPHo4/raknetify-fabric-0.1.0%2Balpha.5.178-all.jar"
 hash-format = "sha1"
-hash = "71e37cfba530f3e9cc0d7a2fe83628df483e47ff"
+hash = "b6ff9e5635ca49bfa8fa53ab8a3587e83b1e1e5d"
 
 [update]
 [update.modrinth]
 mod-id = "5IovSY3u"
-version = "xo081i0p"
+version = "8GznPHo4"
 
 [option]
 optional = true
-default = false
 description = "lets you connect to a server with 'raknet;ip' to get an improved connection in bad conditions"
