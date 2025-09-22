@@ -30,7 +30,7 @@
 	#the link tool will allow max range in which blocks can be bound?
 	#0 = infinite range
 	#Range: 0 ~ 100000
-	maxLinkDistance = 0
+	maxLinkDistance = 32
 	#Using skin renderer to replace the original first person hands renderer.
 	#0 = use client config
 	#1 = always disable
