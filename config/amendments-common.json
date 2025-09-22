@@ -4,12 +4,12 @@
     "improved_screen": true
   },
   "fireball": {
-    "dragon_charge": true,
-    "gravity": true,
+    "dragon_charge": false,
+    "gravity": false,
     "deflectable": false,
-    "fire_charges_throwable": true,
-    "fire_charges_dispenser_behavior": true,
-    "improved_explosions": true
+    "fire_charges_throwable": false,
+    "fire_charges_dispenser_behavior": false,
+    "improved_explosions": false
   },
   "snowball": {
     "freeze_ticks": 35
