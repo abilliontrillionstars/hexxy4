@@ -1,7 +1,0 @@
-name = "moreiotas-fabric"
-filename = "moreiotas-fabric-1.20.1-0.1.0-7.jar"
-
-[download]
-url = "https://github.com/FallingColors/MoreIotas/releases/download/0.1.0-7/moreiotas-fabric-1.20.1-0.1.0-7.jar"
-hash-format = "sha256"
-hash = "4adf491b726e801292dfd4436391323439e6b6ffb6ee77fe7f903131d3f42151"
