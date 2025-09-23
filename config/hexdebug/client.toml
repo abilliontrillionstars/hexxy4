@@ -3,3 +3,4 @@ debugPort = 4444
 smartDebuggerSneakScroll = true
 debuggerDisplayMode = "ENABLED"
 showDebugClientLineNumber = false
+invertSplicingTableScrollDirection = false

@@ -3,5 +3,6 @@
   "invertSpellbookScrollDirection": false,
   "invertAbacusScrollDirection": false,
   "gridSnapThreshold": 0.5,
-  "clickingTogglesDrawing": false
+  "clickingTogglesDrawing": false,
+  "alwaysShowListCommas": false
 }
