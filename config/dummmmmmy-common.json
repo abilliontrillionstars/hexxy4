@@ -12,13 +12,13 @@
   "general": {
     "DPS_mode": "DYNAMIC",
     "disable_equipment_damage": true,
-    "dummy_decoy": false,
+    "dummy_decoy": true,
     "xp_per_damage_on_hit": 0.0,
     "boss_health_color": "YELLOW",
     "boss_health": 200
   },
   "mobs_damage_numbers": {
-    "damage_mode": "NONE",
-    "healing_mode": "NONE"
+    "damage_mode": "ALL_ENTITIES",
+    "healing_mode": "ALL_ENTITIES"
   }
 }
