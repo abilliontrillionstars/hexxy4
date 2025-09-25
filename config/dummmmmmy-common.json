@@ -18,7 +18,7 @@
     "boss_health": 200
   },
   "mobs_damage_numbers": {
-    "damage_mode": "ALL_ENTITIES",
-    "healing_mode": "ALL_ENTITIES"
+    "damage_mode": "NONE",
+    "healing_mode": "NONE"
   }
 }
