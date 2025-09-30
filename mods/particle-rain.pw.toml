@@ -1,18 +1,18 @@
 name = "Particle Rain"
-filename = "particlerain-4.0.0-alpha.3+1.20.1-fabric.jar"
+filename = "particlerain-4.0.0-beta.1+1.20.1-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/nrikgvxm/versions/BOR3r76X/particlerain-4.0.0-alpha.3%2B1.20.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/nrikgvxm/versions/ofJ6Mt4N/particlerain-4.0.0-beta.1%2B1.20.1-fabric.jar"
 hash-format = "sha1"
-hash = "849d43af28ca9589606cfd1248e75c1168696e8c"
+hash = "8e88f956c98b30cf0c3d2363084b0598562822e7"
 
 [update]
 [update.modrinth]
 mod-id = "nrikgvxm"
-version = "BOR3r76X"
+version = "ofJ6Mt4N"
 
 [option]
 optional = true
-default = true
 description = "makes rain look much nicer"
+default = true
