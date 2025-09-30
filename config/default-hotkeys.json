@@ -1,5 +1,15 @@
 [
   {
+    "comment": "[Fabrication] Crawl",
+    "translation": "[Fabrication] Crawl",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "[Fabrication] Swap Enchant",
+    "translation": "[Fabrication] Swap Enchant",
+    "key": "key.keyboard.unknown"
+  },
+  {
     "comment": "[Fabrication] Toggle Stance",
     "translation": "[Fabrication] Toggle Stance",
     "key": "key.keyboard.unknown"
