@@ -1,1 +1,0 @@
-<tag:items:hexdebug:splicing_table/media_blacklist>.add(<item:oneironaut:endless_phial>);
