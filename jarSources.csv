@@ -3,7 +3,7 @@ mods/complexhex-fabric-1.20.1-0.1.6-beta-d433a18.jar,https://github.com/kineticn
 mods/efhexs-1.0.0-20dbe0d.jar,https://github.com/miyucomics/special-efhexs/tree/20dbe0dccaa6390b8d2fea1e389f21045f91ce83,
 mods/efhexs-1.0.0-81157d8.jar,https://github.com/miyucomics/special-efhexs/tree/81157d804c0e51a3082a1b328483425dec49f5da,
 mods/ephemera-fabric-1.20.1-0.3.0.jar,Unknown,modrinth only lists versions from 1.19
-mods/figura-0.1.5+1.20.1-fabric-mc.jar,https://github.com/FiguraMC/Figura/actions/runs/15899240356,for FSB support
+mods/figura-0.1.5+1.20.1-fabric-mc.jar,https://github.com/figuramc/figura/tree/a867840ff171e649ee2b72957feeba6e0dcb0154,"FSB support, collections API"
 mods/helpfromhexxy-fabric-1.20.1-0.1.4.jar,Unknown,newer version than on modrinth
 mods/hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial-teleport-experiment.jar,Unknown,tries to fix lag on long range teleports with create
 mods/hexcassettes-2.0.0-fcc91b3.jar,https://github.com/miyucomics/hexcassettes/tree/fcc91b3f1f63e2d93594807212f15c85aba0df7e,
