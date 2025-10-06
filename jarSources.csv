@@ -1,14 +1,14 @@
-path,source,comment
-mods/complexhex-fabric-1.20.1-0.1.6-beta-d433a18.jar,https://github.com/kineticneticat/ComplexHex/tree/d433a188c2cabffac10ab295f13c3724943f2ba0,
-mods/efhexs-1.0.0-20dbe0d.jar,https://github.com/miyucomics/special-efhexs/tree/20dbe0dccaa6390b8d2fea1e389f21045f91ce83,
-mods/ephemera-fabric-1.20.1-0.3.0.jar,Unknown,modrinth only lists versions from 1.19
-mods/figura-0.1.5+1.20.1-fabric-mc.jar,https://github.com/figuramc/figura/tree/a867840ff171e649ee2b72957feeba6e0dcb0154,"FSB support, collections API"
-mods/helpfromhexxy-fabric-1.20.1-0.1.4.jar,Unknown,newer version than on modrinth
-mods/hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial-teleport-experiment.jar,Unknown,tries to fix lag on long range teleports with create
-mods/hexcassettes-2.0.0-fcc91b3.jar,https://github.com/miyucomics/hexcassettes/tree/fcc91b3f1f63e2d93594807212f15c85aba0df7e,
-mods/hexcellular-1.1.0-64d134a.jar,https://github.com/miyucomics/hexcellular/tree/64d134a215e01b34ef029f8d54df598a35539321,
-mods/hexical-2.0.0-e0d7ef9.jar,https://github.com/miyucomics/hexical/tree/e0d7ef97501060f69eddfc8dcced1e21807bca4b,
-mods/hexxyinthealps-fabric-0.1.0+1.20.1-SNAPSHOT.jar,https://github.com/object-Object/HexxyInTheAlps/actions/runs/17990059194,profiles hexes on the server
-mods/oneironaut-fabric-1.20.1-0.5.0-e78c2e6.jar,https://github.com/beholderface/oneironaut/tree/e78c2e69ff7a5952f6edfd3b3f749afa88124a9c,
-mods/overevaluate-1.0.0-c100474.jar,https://github.com/miyucomics/overevaluate/tree/c1004746cd43fbdd01edc2cf1a1d9b504b0cbf0d,
-mods/scryglass-1.0.0-ae42d7b.jar,https://github.com/miyucomics/scryglass/tree/ae42d7b710fcf45453a509a84caf80e857dd1fa6,
+name,source,branch,commit
+complexhex-fabric-1.20.1-0.1.6-beta-d433a18.jar,https://github.com/kineticneticat/ComplexHex.git,0.1.x,d433a188c2cabffac10ab295f13c3724943f2ba0
+efhexs-1.0.0-20dbe0d.jar,https://github.com/miyucomics/special-efhexs.git,main,20dbe0dccaa6390b8d2fea1e389f21045f91ce83
+ephemera-fabric-1.20.1-0.3.0.jar,,,
+figura-0.1.5+1.20.1-fabric-mc-a5f5d5d.jar,https://github.com/penguinencounter/figura.git,hexxy,a5f5d5d2de2389cf9132afa4e28474e195bfc737
+helpfromhexxy-fabric-1.20.1-0.1.4.jar,,,
+hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial-teleport-experiment.jar,,,
+hexcassettes-2.0.0-fcc91b3.jar,https://github.com/miyucomics/hexcassettes.git,main,fcc91b3f1f63e2d93594807212f15c85aba0df7e
+hexcellular-1.1.0-64d134a.jar,https://github.com/miyucomics/hexcellular.git,main,64d134a215e01b34ef029f8d54df598a35539321
+hexical-2.0.0-e0d7ef9.jar,https://github.com/miyucomics/hexical.git,main,e0d7ef97501060f69eddfc8dcced1e21807bca4b
+hexxyinthealps-fabric-0.1.0+1.20.1-SNAPSHOT.jar,https://github.com/object-Object/HexxyInTheAlps.git,main,2746f041bbfc9e36abbbd8d26c116968615a9efe
+oneironaut-fabric-1.20.1-0.5.0-e78c2e6.jar,https://github.com/beholderface/oneironaut.git,1.20.1,e78c2e69ff7a5952f6edfd3b3f749afa88124a9c
+overevaluate-1.0.0-c100474.jar,https://github.com/miyucomics/overevaluate.git,main,c1004746cd43fbdd01edc2cf1a1d9b504b0cbf0d
+scryglass-1.0.0-6c096fb.jar,https://github.com/miyucomics/scryglass.git,main,6c096fbb974f6c8ca04f6ec83946a448415da0d9
