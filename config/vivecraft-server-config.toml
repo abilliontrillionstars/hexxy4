@@ -1,3 +1,4 @@
+#General Settings
 [general]
 	#will print clients that connect with vivecraft, and what version they are using, to the log.
 	debug = false
@@ -22,24 +23,39 @@
 	# Enable this to when using replay mod or something similar.
 	sendDataToOwner = false
 
+#Configure messages that are sent when players do specific actions.
+#Set message to nothing to not send. e.g., leaveMessage = ""
+# Use '%s' in any message for the player name.
+# For messages that take two placeholders (i.e., death by mob) use '%1$s' for the player name and '%2$s' for the second placeholder.
 [messages]
 	#Enable or disable all messages.
 	enabled = false
 	#set message to nothing to not send. ex: leaveMessage = ""
 	# put '%s' in any message for the player name
 	welcomeVR = "%s has joined with standing VR!"
+	#Message sent when a player joins with VR not active.
 	welcomeNonVR = "%s has joined with Non-VR companion!"
+	#Message sent when a player joins with VR in seated mode.
 	welcomeSeated = "%s has joined with seated VR!"
+	#Message sent when a player leaves the server.
 	leaveMessage = "%s has disconnected from the server!"
+	#Message sent when a player joins without vivecraft installed.
 	welcomeVanilla = "%s has joined as a Muggle!"
+	#Message sent when a player dies with VR active.
 	deathVR = "%s died in standing VR!"
+	#Message sent when a player dies with VR not active.
 	deathNonVR = "%s died in Non-VR companion!"
+	#Message sent when a player dies with VR in seated mode.
 	deathSeated = "%s died in seated VR!"
+	#Message sent when a player dies without Vivecraft.
 	deathVanilla = "%s died as a Muggle!"
 	#death by mob messages use '%1$s' for the player name and '%2$s' for the mob name
 	deathByMobVR = "%1$s was slain by %2$s in standing VR!"
+	#Message sent when a player dies because of a mob with VR not active.
 	deathByMobNonVR = "%1$s was slain by %2$s in Non-VR companion!"
+	#Message sent when a player dies because of a mob with VR in seated mode.
 	deathByMobSeated = "%1$s was slain by %2$s in seated VR!"
+	#Message sent when a player dies because of a mob without Vivecraft.
 	deathByMobVanilla = "%1$s was slain by %2$s as a Muggle!"
 	#The message to show kicked non vivecraft players.
 	KickViveOnly = "This server is configured for Vivecraft players only."
@@ -149,6 +165,7 @@
 	# If disabled, they will be locked to the mode they joined with.
 	enabled = true
 
+#Debug Settings
 [debug]
 	#will spawn particles at VR players device positions, to indicate the server VR data state.
 	debugParticles = false
