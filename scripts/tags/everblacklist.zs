@@ -1,5 +1,4 @@
 <tagmanager:iota_type>.addId(<tag:iota_type:hexal:illegal_interworld>, <resource:caduceus:continuation/delimited>);
-<tagmanager:iota_type>.addId(<tag:iota_type:hexal:illegal_interworld>, <resource:complexhex:bubble>);
 <tagmanager:iota_type>.addId(<tag:iota_type:hexal:illegal_interworld>, <resource:ephemera:potion>);
 <tagmanager:iota_type>.addId(<tag:iota_type:hexal:illegal_interworld>, <resource:hexal:gate>);
 <tagmanager:iota_type>.addId(<tag:iota_type:hexal:illegal_interworld>, <resource:hexal:item>);
