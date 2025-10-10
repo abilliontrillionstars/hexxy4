@@ -1,18 +1,18 @@
 name = "Fzzy Config"
-filename = "fzzy_config-0.7.2+1.20.1.jar"
+filename = "fzzy_config-0.7.3+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hYykXjDp/versions/KVD9gGYS/fzzy_config-0.7.2%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/hYykXjDp/versions/X97pZsBz/fzzy_config-0.7.3%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "46f28c55c9b46156fcfe3abf3e45ee66adf77dd2"
+hash = "6f0b9799863fdb2cf183f6dc2cc31aa5fb059b05"
 
 [update]
 [update.modrinth]
 mod-id = "hYykXjDp"
-version = "KVD9gGYS"
+version = "X97pZsBz"
 
 [option]
 optional = true
-default = true
 description = "needed for particlecore"
+default = true
