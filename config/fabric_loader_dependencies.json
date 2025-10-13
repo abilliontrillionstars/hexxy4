@@ -1,6 +1,11 @@
 {
     "version": 1,
     "overrides": {
+    "hexic": {
+        "depends": {
+        "hexal": "0.3.0-4"
+        }
+    },
     "ephemera": {
         "depends": {
         "hexal": "0.3.0-4"
