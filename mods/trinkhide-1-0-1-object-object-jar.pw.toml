@@ -1,7 +1,0 @@
-name = "trinkhide-1.0.1+object-Object.jar"
-filename = "trinkhide-1.0.1+object-Object.jar"
-
-[download]
-url = "https://github.com/object-Object/trinkhide/releases/download/1.0.1/trinkhide-1.0.1+object-Object.jar"
-hash-format = "sha256"
-hash = "a91d1540d32bae3ee22e7d8784f78faa2519f16393334854ce7b7aefb7eca4a5"

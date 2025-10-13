@@ -1,7 +1,0 @@
-name = "hexcasting-fabric"
-filename = "hexcasting-fabric-1.20.1-0.11.2-pre-739.jar"
-
-[download]
-url = "https://ci.blamejared.com/job/petrakat/job/Hexcasting/job/main/739/artifact/Fabric/build/libs/hexcasting-fabric-1.20.1-0.11.2-pre-739.jar"
-hash-format = "sha256"
-hash = "13cddf951f9b2f97bc79b0b536ef0353343f605ae2bbc0f7a7c45c1c6e43312a"
