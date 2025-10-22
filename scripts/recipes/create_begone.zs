@@ -55,6 +55,10 @@ craftingTable.addShapeless("hexxycraft/hex_food_chocolate_bar", <item:create:bar
  [<item:create:chocolate_bucket>]
 );
 
+// Oi, you forgot the tea!!
+<recipetype:farmersdelight:cooking>.addRecipe("hexxycraft/hex_drink_builders_tea", <item:create:builders_tea>,
+[<tag:items:c:milks>,<tag:items:minecraft:leaves>],<constant:farmersdelight:cooking_pot_recipe_book_tab:misc>, <item:minecraft:glass_bottle>, 1, 100);
+
 craftingTable.addShaped("hexxycraft/hex_potato_cannon", <item:create:potato_cannon>, [ // Tight squeze
     [alloy, <item:create:precision_mechanism>, <item:create:copper_sheet>],
     [<item:minecraft:copper_ingot>, <item:minecraft:copper_ingot>, <item:create:copper_sheet>],
