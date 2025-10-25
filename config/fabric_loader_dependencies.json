@@ -1,15 +1,45 @@
 {
     "version": 1,
     "overrides": {
-    "ephemera": {
-        "depends": {
-        "hexal": "0.3.0-4"
+        "hexal": {
+            "depends": {
+                "hexcasting": "0.11.2-285c9df"
+            }
+        },
+        "complexhex": {
+            "depends": {
+                "hexcasting": "0.11.2-285c9df"
+            }
+        },
+        "ephemera": {
+            "depends": {
+                "hexal": "0.3.0-05823bd"
+            }
+        },
+        "hexchanting": {
+            "depends": {
+                "hexcasting": "0.11.2-285c9df"
+            }
+        },
+        "hexic": {
+            "depends": {
+                "hexal": "0.3.0-05823bd"
+            }
+        },
+        "hexportation": {
+            "depends": {
+                "hexcasting": "0.11.2-285c9df"
+            }
+        },
+        "lessertp": {
+            "depends": {
+                "hexcasting": "0.11.2-285c9df"
+            }
+        },
+        "oneironaut": {
+            "depends": {
+                "hexal": "0.3.0-05823bd"
+            }
         }
-    },
-    "oneironaut": {
-        "depends": {
-        "hexal": "0.3.0-4"
-        }
-    }
     }
 }
